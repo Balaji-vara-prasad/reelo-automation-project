@@ -63,6 +63,9 @@ Screenshot of received SMS (message containing your name)
 GitHub project link (this repository)
 
 Screen recording of the entire automation run
+## 🎥 Automation Execution Video
+[Watch Automation Recording](https://drive.google.com/file/d/1Bc8S6XGiMYu07jIY-3IvJoSFdI-YJhc1/view?usp=sharing)
+
 
 🙌 Author
 
